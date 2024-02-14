@@ -1,4 +1,4 @@
-# Notify
+# Notify - chrome Extension Development
 Chrome Extension Development Project 
 
 This project includes chrome notification, storage and interface with HTML
